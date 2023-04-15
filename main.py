@@ -9,8 +9,8 @@ import queue
 
 os.system("cls")
 
-print("Limited Sniper : https://discord.gg/Ezm9b64d7K")
-print("TEST")
+print("https://discord.gg/Ezm9b64d7K")
+print("https://github.com/GetGian/Limited-Sniper-v2")
 
 
 limiteds = []
